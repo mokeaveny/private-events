@@ -1,24 +1,7 @@
-# README
+Modelling the relationships of the objects and data for an events application. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The models being users, events and event invitations. 
 
-Things you may want to cover:
+Purpose of the repository is to get more experience on creating queries and associations within a framework.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Link to the curriculum https://www.theodinproject.com/courses/ruby-on-rails/lessons/associations
